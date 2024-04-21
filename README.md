@@ -31,4 +31,3 @@ This package utilizes ``pug`` for the templating engine, however you can customi
 
 
 #### Happy Webdeving!
-
