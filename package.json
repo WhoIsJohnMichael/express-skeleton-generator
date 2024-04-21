@@ -1,9 +1,9 @@
 {
   "name": "express-skeleton-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "An ExpressJS application starter generator, inspired by the goold old 'express-generator'",
   "bin": {
-    "express-skeleton": "./bin/express-skeleton"
+    "express-skeleton": "bin/express-skeleton"
   },
   "type": "module",
   "main": "index.js",
@@ -16,5 +16,13 @@
     "skeleton"
   ],
   "author": "John Michael Santos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhoIsJohnMichael/express-skeleton-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhoIsJohnMichael/express-skeleton-generator/issues"
+  },
+  "homepage": "https://github.com/WhoIsJohnMichael/express-skeleton-generator#readme"
 }
