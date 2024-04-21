@@ -13,11 +13,20 @@ e.g
 $ express-skeleton my-app
 ```
 
-## 3. Install the dependencies
+## 3. Go to the application folder
+```
+$ cd <app-name>
+```
+
+## 4. Install the dependencies
 ```
 $ npm install
 ```
 
+## 5. Start the project
+```
+$ npm start 
+```
 This package utilizes ``pug`` for the templating engine, however you can customize it to your preferred engine. 
 
 

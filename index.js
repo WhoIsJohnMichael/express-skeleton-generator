@@ -133,7 +133,7 @@ async function generateProjectSkeleton(projectName) {
 
     await writeFile(viewIndexPath, viewIndexContent);
 
-    const viewErrorPath = path.join(projectPath, "routes", "error.pug");
+    const viewErrorPath = path.join(projectPath, "views", "error.pug");
     const viewErrorContent = `
         h1= status 
         p= message 
